@@ -1,5 +1,9 @@
 # Use Surface Pen as a slide-show clicker for Google Slides, LibreOffice, and more
 
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png)][cc-by-sa-4.0] This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa-4.0].
+
+[cc-by-sa-4.0]: http://creativecommons.org/licenses/by-sa/4.0/
+
 ## How Does It Works
 
 Top / Eraser / Shortcut button works just like key press on the keyboard.
